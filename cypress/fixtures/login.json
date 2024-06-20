@@ -1,0 +1,29 @@
+[
+{
+  "Username": "karim",
+  "Password": "Kari@123",
+  "WrongUsername": "Kar",
+  "WrongPassword": "Ka@123",
+  "NumericUsername":"123*^45",
+  "NumericPassword":"1234+_(&%5678"
+
+},
+{
+  "Username": "malek",
+  "Password": "Male@123",
+  "WrongUsername": "ma",
+  "WrongPassword": "ma@123",
+  "NumericUsername":"0000#$%00",
+  "NumericPassword":"0012345678"
+
+},
+{
+  "Username": "youssef",
+  "Password": "Yous@123",
+  "WrongUsername": "yo",
+  "WrongPassword": "yo@123",
+  "NumericUsername":"09754",
+  "NumericPassword":"000&*(^00000"
+
+}
+]

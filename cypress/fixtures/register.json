@@ -1,0 +1,41 @@
+[
+{
+  "Username": "karim",
+  "Password": "Kari@123",
+  "ConfirmPassword": "Kari@123",
+  "InvalidConfirmPassword": "Karim@123",
+  "InvalidPasswordLessThan8Charecters": "Karim@1",
+  "InvalidPasswordWithNoUppercaseLetter": "kari@123",
+  "InvalidPasswordWithNoLowercaseLetter": "KARI@123",
+  "InvalidPasswordWithNoDigit": "kari@Kari"
+
+
+
+},
+{
+  "Username": "malek",
+  "Password": "Male@123",
+  "ConfirmPassword": "Male@123",
+  "InvalidConfirmPassword": "Malek@123",
+  "InvalidPasswordLessThan8Charecters": "Male@1",
+  "InvalidPasswordWithNoUppercaseLetter": "male@123",
+  "InvalidPasswordWithNoLowercaseLetter":"MALE@123",
+  "InvalidPasswordWithNoDigit": "Male@Male"
+
+
+},
+{
+  "Username": "youssef",
+  "Password": "Yous@123",
+  "ConfirmPassword": "Yous@123",
+  "InvalidConfirmPassword": "Yousef@123",
+  "InvalidPasswordLessThan8Charecters": "Yous@1",
+  "InvalidPasswordWithNoUppercaseLetter": "yous@123",
+  "InvalidPasswordWithNoLowercaseLetter":"YOUS@123",
+  "InvalidPasswordWithNoDigit": "Yous@Yous"
+
+
+
+
+}
+]
