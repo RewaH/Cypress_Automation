@@ -6,13 +6,13 @@ Cypress.on('uncaught:exception', (err, runnable) => {
   describe('Registration Tese Cases', () => {
     let fd;
   
-    before(function() {
+    before(function() {     //hook to read data from external file
       cy.fixture('register').then((data) => {
         fd = data;
       });
     });
   
-    it('register with valid data', function() {
+    it('register with valid data', function() { // test case
       cy.visit('https://guneet.pythonanywhere.com/register');
      //  cy.wait(5000)
 
